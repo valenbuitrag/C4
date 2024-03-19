@@ -1,0 +1,28 @@
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.GeneratedMSBuildEditorConfig.editorconfig
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.AssemblyInfoInputs.cache
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.AssemblyInfo.cs
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.csproj.CoreCompileInputs.cache
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\bin\Debug\net8.0\Cuarto_Punto.exe
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\bin\Debug\net8.0\Cuarto_Punto.deps.json
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\bin\Debug\net8.0\Cuarto_Punto.runtimeconfig.json
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\bin\Debug\net8.0\Cuarto_Punto.dll
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\bin\Debug\net8.0\Cuarto_Punto.pdb
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.dll
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\obj\Debug\net8.0\refint\Cuarto_Punto.dll
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.pdb
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.genruntimeconfig.cache
+D:\U TdeA\7to Semestre\Trabajos\Valentina\Cuarto_Punto\obj\Debug\net8.0\ref\Cuarto_Punto.dll
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\bin\Debug\net8.0\Cuarto_Punto.exe
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\bin\Debug\net8.0\Cuarto_Punto.deps.json
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\bin\Debug\net8.0\Cuarto_Punto.runtimeconfig.json
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\bin\Debug\net8.0\Cuarto_Punto.dll
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\bin\Debug\net8.0\Cuarto_Punto.pdb
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.dll
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\obj\Debug\net8.0\refint\Cuarto_Punto.dll
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.pdb
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\obj\Debug\net8.0\Cuarto_Punto.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\trabajoC4_1\Cuarto_Punto\obj\Debug\net8.0\ref\Cuarto_Punto.dll
